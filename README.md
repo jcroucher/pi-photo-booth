@@ -3,8 +3,6 @@ Automatically exported from code.google.com/p/pi-photo-booth
 
 Raspberry Pi Photo Booth software written in Python.
 
-Direct link to the code https://code.google.com/p/pi-photo-booth/source/browse/photobooth.py
-
 This photo booth software runs a random slideshow of all photos taken. When a user presses the button connected to the Raspberry Pi GPIO pin ( Default 18 ), it initiates a photo taking sequence
 
 
